@@ -1,5 +1,5 @@
 ﻿
-# 🧩 TemplateNetCore10
+# 🧩 Template
 
 > Arquitetura completa com **.NET Core**, **DDD**, **CQRS**, **Kafka**, **RabbitMQ**, **Redis**, **MongoDB** e **SQL Server** pronta para escalabilidade, testes e integração com mensageria.
 
